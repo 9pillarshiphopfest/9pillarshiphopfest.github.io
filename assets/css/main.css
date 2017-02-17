@@ -7,6 +7,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /*Media */
+@media only screen and (max-width: 500px) {
+    .gridmenu {
+        width:100%;
+    }
+
+    .gridmain {
+        width:100%;
+    }
+
+    .gridright {
+        width:100%;
+    }
+}
 /* Larger than mobile */
         @media (min-width: 400px) {}
 
