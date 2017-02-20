@@ -2520,6 +2520,9 @@
 				vertical-align: middle;
 				margin-left: 1em;
 			}
+					#banner img {
+						width: 100%;
+					}
 
 /* Wrapper */
 
