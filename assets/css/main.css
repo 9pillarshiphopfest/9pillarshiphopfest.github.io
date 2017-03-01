@@ -2486,6 +2486,36 @@
 		position: relative;
 	}
 
+@media only screen and (height:90px) {
+	#banner {
+		background-image: url("../../images/Logo Banner.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 90em;
+		text-align: center;
+		position: relative;
+	}
+}
+@media only screen and (height:180px) {
+	#banner {
+		background-image: url("../../images/Logo Banner.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 180em;
+		text-align: center;
+		position: relative;
+	}
+}
+@media only screen and (height:360px) {
+	#banner {
+		background-image: url("../../images/Logo Banner.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 360em;
+		text-align: center;
+		position: relative;
+	}
+}
 		#banner header {
 			position: absolute;
 			bottom: 0;
