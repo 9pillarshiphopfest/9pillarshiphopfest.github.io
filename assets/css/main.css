@@ -2486,32 +2486,32 @@
 		position: relative;
 	}
 
+@media only screen and (height:40px) {
+	#banner {
+		background-image: url("../../images/Logo Banner.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 2.45em;
+		text-align: center;
+		position: relative;
+	}
+}
+@media only screen and (height:48px) {
+	#banner {
+		background-image: url("../../images/Logo Banner.jpg");
+		background-position: center center;
+		background-size: cover;
+		height: 3em;
+		text-align: center;
+		position: relative;
+	}
+}
 @media only screen and (height:90px) {
 	#banner {
 		background-image: url("../../images/Logo Banner.jpg");
 		background-position: center center;
 		background-size: cover;
-		height: 90em;
-		text-align: center;
-		position: relative;
-	}
-}
-@media only screen and (height:180px) {
-	#banner {
-		background-image: url("../../images/Logo Banner.jpg");
-		background-position: center center;
-		background-size: cover;
-		height: 180em;
-		text-align: center;
-		position: relative;
-	}
-}
-@media only screen and (height:360px) {
-	#banner {
-		background-image: url("../../images/Logo Banner.jpg");
-		background-position: center center;
-		background-size: cover;
-		height: 360em;
+		height: 5.5em;
 		text-align: center;
 		position: relative;
 	}
