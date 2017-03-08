@@ -1907,6 +1907,13 @@
 		margin-top: -1.25em;
 		margin-bottom: 2.25em;
 	}
+header b {
+		color: #FFFFFF;
+		font-size: 1.25em;
+		position: relative;
+		margin-top: -1.25em;
+		margin-bottom: 2.25em;
+	}
 
 	header.major {
 		text-align: center;
