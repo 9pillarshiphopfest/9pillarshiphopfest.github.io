@@ -1838,7 +1838,7 @@
 
 	em, i {
 		font-style: italic;
-		color:#FFFFFF;
+		
 	}
 
 	p, ul, ol, dl, table, blockquote {
@@ -1870,7 +1870,13 @@
 	h3 {
 		font-size: 1.2em;
 		letter-spacing: -0.025em;
-		color: #FFFFFF;
+		
+	}
+	h6 {
+		font-size: 1em;
+		letter-spacing: -0.025em;
+		color: #FFFFFF
+		
 	}
 
 	sub {
