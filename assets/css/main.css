@@ -1845,19 +1845,19 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6, h8,h9, h14, hnew, h45{
+	h1, h2, h3, h4, h5, h6, h8,h9, h14, hnew, h45, h22{
 		color: inherit;
 		font-weight: 600;
 		line-height: 1.75em;
 		margin-bottom: 1em;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h8 a,h9 a, h14 a, hnew a, h45 a {
+		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h8 a,h9 a, h14 a, hnew a, h45 a, h22 a {
 			color: inherit;
 			text-decoration: none;
 		}
 
-		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em,h8 em,h9 em, h14 em, hnew em, h45 em {
+		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em,h8 em,h9 em, h14 em, hnew em, h45 em, h22 em {
 			font-style: normal;
 			font-weight: 300;
 		}
@@ -1890,6 +1890,11 @@
 		font-size: 1em;
 		letter-spacing: -0.025em;
 		color: #FFFFFF
+		
+	}
+h22 {
+		font-size: 1.75em;
+		letter-spacing: -0.025em;
 		
 	}
 	sub {
